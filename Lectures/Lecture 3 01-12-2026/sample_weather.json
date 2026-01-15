@@ -1,0 +1,11 @@
+
+{
+    "latitude": 52.52,
+    "longitude": 13.41,
+    "timezone": "Europe/Berlin",
+    "daily": {
+        "time": ["2023-01-01", "2023-01-02", "2023-01-03"],
+        "temperature_2m_mean": [5.2, 3.1, 4.8],
+        "precipitation_sum": [0.0, 2.3, 0.5]
+    }
+}
