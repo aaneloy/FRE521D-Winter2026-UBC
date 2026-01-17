@@ -1,17 +1,17 @@
 
 # Data Lineage Documentation
 
-Generated: 2026-01-14T09:30:29.381548
+Generated: 2026-01-14T13:47:51.557468
 
 ## Source
 - File: crop_production_1990_2023.csv
 
 ## Raw Layer
-- File: data/raw/crop_production_raw_20260114_093017.csv
+- File: data/raw/crop_production_raw_20260114_134606.csv
 - Contains exact copy of source with metadata columns added
 
 ## Cleaned Layer  
-- File: data/cleaned/crop_production_cleaned_20260114_093017.csv
+- File: data/cleaned/crop_production_cleaned_20260114_134606.csv
 
 ## Transformations Applied
 - Stripped whitespace from text columns
