@@ -1,0 +1,20 @@
+2026-01-27 21:58:35 | INFO     | <module> | This is an INFO message - visible in console
+2026-01-27 21:58:35 | WARNING  | <module> | This is a WARNING message
+2026-01-27 21:58:35 | ERROR    | <module> | This is an ERROR message
+2026-01-27 21:58:43 | INFO     | start_run | Pipeline 'weather_etl' started
+2026-01-27 21:58:43 | INFO     | end_run | Pipeline completed successfully in 0.11s
+2026-01-27 21:58:43 | INFO     | start_run | Pipeline 'weather_etl' started
+2026-01-27 21:58:44 | INFO     | end_run | Pipeline completed successfully in 0.11s
+2026-01-27 21:58:44 | INFO     | start_run | Pipeline 'weather_etl' started
+2026-01-27 21:58:44 | INFO     | end_run | Pipeline completed successfully in 0.11s
+2026-01-27 21:58:56 | INFO     | __init__ | Pipeline initialized with config: {'source_path': '../../Datasets/GlobalWeatherRepository.csv', 'database_path': 'weather_warehouse.db', 'table_name': 'global_weather', 'chunk_size': 10000, 'max_retries': 3, 'retry_delay': 5, 'log_level': 'INFO'}
+2026-01-27 21:58:56 | INFO     | start_run | Pipeline 'weather_etl' started
+2026-01-27 21:58:56 | INFO     | connect | Connecting to database...
+2026-01-27 21:58:56 | INFO     | extract | Extracting data from ../../Datasets/GlobalWeatherRepository.csv
+2026-01-27 21:58:56 | INFO     | extract | Extracted 43,884 rows, 41 columns
+2026-01-27 21:58:56 | INFO     | transform | Starting transformation...
+2026-01-27 21:58:56 | INFO     | transform | Transformation complete. Null rate: 0.00%
+2026-01-27 21:58:56 | INFO     | validate | Running validation checks...
+2026-01-27 21:58:56 | INFO     | load | Loading 43,884 rows to global_weather
+2026-01-27 21:58:57 | INFO     | load | Load complete
+2026-01-27 21:58:57 | INFO     | end_run | Pipeline completed successfully in 1.41s
