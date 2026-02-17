@@ -1,0 +1,11 @@
+country,region,income_group,yield_loss_pct,drought_events,avg_yield
+Egypt,Middle East & North Africa,Lower middle income,2.1,8,6450
+Netherlands,Europe & Central Asia,High income,2.4,5,8920
+France,Europe & Central Asia,High income,3.1,7,7280
+Japan,East Asia & Pacific,High income,3.5,6,6680
+United States,North America,High income,3.8,9,7120
+Niger,Sub-Saharan Africa,Low income,22.4,12,420
+Mali,Sub-Saharan Africa,Low income,21.8,11,680
+Burkina Faso,Sub-Saharan Africa,Low income,19.2,10,750
+Chad,Sub-Saharan Africa,Low income,18.5,11,580
+Ethiopia,Sub-Saharan Africa,Low income,16.8,9,1820

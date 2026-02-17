@@ -1,0 +1,5 @@
+income_group,avg_yield,median_yield,std_yield,avg_fertilizer,n_countries
+High income,5420,5180,1240,185,42
+Upper middle income,4280,4050,1580,120,38
+Lower middle income,2890,2650,1320,65,35
+Low income,1450,1280,890,18,27

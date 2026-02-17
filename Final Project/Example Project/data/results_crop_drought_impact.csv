@@ -1,0 +1,7 @@
+crop,normal_yield,drought_yield,yield_loss_pct,p_value,significant
+Maize,5420,4780,11.8,0.0001,True
+Sorghum,1280,1162,9.2,0.0003,True
+Wheat,3150,2917,7.4,0.0012,True
+Barley,2890,2705,6.4,0.0045,True
+Soybeans,2340,2223,5.0,0.0089,True
+Rice,4520,4375,3.2,0.0234,True
